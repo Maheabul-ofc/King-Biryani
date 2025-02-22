@@ -28,3 +28,16 @@ Welcome to the **King Biryani** project! This is a responsive, visually appealin
 - **Assets**: Images for the logo, banner background, and biryani dishes.
 
 ## Project Structure
+
+| File/Folder                  | Description                                      |
+|------------------------------|--------------------------------------------------|
+| `King-Biryani/`              | Root directory of the project                   |
+| `All photos/`                | Folder containing image assets                  |
+| &nbsp;&nbsp;&nbsp;`logo.png` | Restaurant logo (used in header and footer)      |
+| &nbsp;&nbsp;&nbsp;`main bg image (restaurant).webp` | Banner background image                  |
+| &nbsp;&nbsp;&nbsp;`matka biryani.jpg` | Image for Matka Biryani                   |
+| &nbsp;&nbsp;&nbsp;`kadai biryani.webp` | Image for Kadai Biryani                   |
+| &nbsp;&nbsp;&nbsp;`tandoori biryani new.jpg` | Image for Tandoori Biryani               |
+| `index.html`                 | Main HTML file                                  |
+| `style.css`                  | CSS stylesheet                                  |
+| `README.md`                  | This documentation file                         |
