@@ -67,10 +67,10 @@ Below are placeholders for screenshots. To add them:
 3. Update the paths below with the actual file locations.
 
 ### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
+![Desktop View](./All%20photos/desktop%20view.png)
 
 ### Mobile View
-![Mobile View](./)
+![Mobile View](./All%20photos/mobile%20view.png)
 
 
 ## Contributing
@@ -91,6 +91,7 @@ We welcome contributions to enhance this project! To contribute:
    Please ensure your code is well-commented and aligns with the existing style.
 
 
-**Created by**: Mahea Bul
-**Contact**: [Contact Me](mailto:maheabulwork@gmail.com)
-Enjoy crafting delicious digital experiences with King Biryani!
+**Created by**: Mahea Bul <br>
+**Contact**: 
+[Contact Me](mailto:maheabulwork@gmail.com)
+<br>Enjoy crafting delicious digital experiences with King Biryani!
