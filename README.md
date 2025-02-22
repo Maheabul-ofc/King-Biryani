@@ -11,7 +11,6 @@ Welcome to the **King Biryani** project! This is a responsive, visually appealin
 - [Setup Instructions](#setup-instructions)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Responsive Design**: Adapts seamlessly to all screen sizes, from small mobile phones to large desktop screens.
@@ -41,3 +40,57 @@ Welcome to the **King Biryani** project! This is a responsive, visually appealin
 | `index.html`                 | Main HTML file                                  |
 | `style.css`                  | CSS stylesheet                                  |
 | `README.md`                  | This documentation file                         |
+
+## Setup Instructions
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Maheabul-ofc/King-Biryani.git
+2. **Navigate to the Project Folder**:
+   ```bash
+   cd King-Biryani
+
+3. **Open the Website**:
+   - Open `index.html` in a web browser (e.g., Chrome, Firefox) to view the site.
+   - Ensure the `All photos` folder remains in the same directory as `index.html` and `style.css` for images to load correctly.
+
+4. **Customize (Optional)**:
+   - Edit `index.html` to update text, add new menu items, or link additional pages.
+   - Modify `style.css` to tweak colors, layouts, or animations.
+   - Replace images in `All photos/` with your own (ensure filenames match the HTML/CSS references).
+
+## Screenshots
+Below are placeholders for screenshots. To add them:
+1. Take screenshots of the website (e.g., desktop and mobile views).
+2. Upload them to the repo (e.g., in a `screenshots/` folder).
+3. Update the paths below with the actual file locations.
+
+### Desktop View
+![Desktop View](./screenshots/desktop-view.png)
+
+### Mobile View
+![Mobile View](./)
+
+
+## Contributing
+We welcome contributions to enhance this project! To contribute:
+1. Fork this repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+3. **Make your changes and commit**:
+   ```bash
+   git commit -m "Add your feature description"
+
+4. **Push to your branch**:
+   ```bash
+   git push origin feature/your-feature-name
+5. **Open a Pull Request on GitHub with a clear description of your changes**:
+   Please ensure your code is well-commented and aligns with the existing style.
+
+
+**Created by**: Mahea Bul
+**Contact**: [Contact Me](mailto:maheabulwork@gmail.com)
+Enjoy crafting delicious digital experiences with King Biryani!
