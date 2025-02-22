@@ -71,6 +71,10 @@ Below are placeholders for screenshots. To add them:
 
 ### Mobile View
 ![Mobile View](./All%20photos/mobile%20view.png)
+<p align="center">
+  <img src="./All%20photos/mobile%20view.png" alt="Image description" width="300">
+</p>
+
 
 
 ## Contributing
