@@ -81,7 +81,7 @@ We welcome contributions to enhance this project! To contribute:
 1. Fork this repository.
 2. Create a new branch:
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b main
 
 3. **Make your changes and commit**:
    ```bash
@@ -89,7 +89,7 @@ We welcome contributions to enhance this project! To contribute:
 
 4. **Push to your branch**:
    ```bash
-   git push origin feature/your-feature-name
+   git push origin main
 5. **Open a Pull Request on GitHub with a clear description of your changes**:
    Please ensure your code is well-commented and aligns with the existing style.
 
